@@ -1,0 +1,29 @@
+{
+  "name": "inboundjs",
+  "version": "0.1.0",
+  "description": "Modern javascript data binding and view synchronization.",
+  "main": "src/inbound.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pklauzinski/inbound.git"
+  },
+  "keywords": [
+    "data-binding",
+    "getters",
+    "setters",
+    "mutationobserver",
+    "real-time"
+  ],
+  "author": "Philip Klauzinski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pklauzinski/inbound/issues"
+  },
+  "homepage": "https://github.com/pklauzinski/inbound#readme",
+  "devDependencies": {
+    "rollup": "^0.33.0"
+  }
+}
