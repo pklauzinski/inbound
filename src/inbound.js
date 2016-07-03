@@ -1,4 +1,4 @@
-var inbound = function(obj, prop) {
+export default function(obj, prop) {
     var input = document.querySelector('[name="' + prop + '"]');
     var observer = new MutationObserver(function(mutations) {
         mutations.forEach(function(mutation) {

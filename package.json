@@ -1,6 +1,6 @@
 {
   "name": "inboundjs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Modern javascript data binding and view synchronization.",
   "main": "src/inbound.js",
   "scripts": {

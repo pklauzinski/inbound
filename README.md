@@ -9,5 +9,5 @@ Inbound.js provides modern javascript data binding and view synchronization by e
 - Makes no assumptions about your application architecture
 - No other library dependencies
 - ES5 compatible down to IE9 (without `MutationObserver` features)
-- Encourages a MAD (modular application development) pattern
-- Discourages a FAD (framework application development) pattern
+- Encourages a **MAD** (modular application development) pattern
+- Discourages a **FAD** (framework application development) pattern
